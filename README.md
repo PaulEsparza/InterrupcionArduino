@@ -1,7 +1,7 @@
-*Version 1.4 - 27 - Sep - 2018*
+*Version 2.0 - 27 - Sep - 2018*
 
 
-# Practica 2. Interrupciones y Bajo Consumo Energetico En Arduino
+# Practica 2. Interrupciones y Bajo Consumo Energético En Arduino
 
 
 Esta practica consiste en `simular una alarma con arduino para el acceso a una puerta`, cuyo funcionamiento es que cuando la puerta este abierta, una alarma debe de sonar en caso contrario deberia de mantenerse en silencio.
@@ -16,7 +16,7 @@ Tabla De Contenido
 - [Contenido Del Proyecto](#contenido-del-proyecto).
 - [Instrucciones Para Importar Las Bibliotecas utilizadas](#instrucciones-para-importar-las-bibliotecas-utilizadas).
 - [Ejemplo Conexión Virtual](#ejemplo-conexión-virtual).
-- [Ejemplo Conexión Física](#ejemplo-conexión-fisica).
+- [Ejemplo Conexión Física](#ejemplo-conexión-física).
 - [Tecnologías Usadas](#tecnologías-usadas).
 - [Autor](#autor).
 
