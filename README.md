@@ -14,10 +14,10 @@ Tabla De Contenido
 - [Requisitos](#requisitos).
 - [Materiales](#materiales).
 - [Contenido Del Proyecto](#contenido-del-proyecto).
-- [Instrucciones Para Importar Las Bibliotecas utilizadas](#importar-librerias).
-- [Ejemplo Conexión Virtual](#conexion-virtual).
-- [Ejemplo Conexión Física](#conexion-fisica).
-- [Tecnologías Usadas](#tecnologias-usadas).
+- [Instrucciones Para Importar Las Bibliotecas utilizadas](#instrucciones-para-importar-las-bibliotecas-utilizadas).
+- [Ejemplo Conexión Virtual](#ejemplo-conexión-virtual).
+- [Ejemplo Conexión Física](#ejemplo-conexión-fisica).
+- [Tecnologías Usadas](#tecnologías-usadas).
 - [Autor](#autor).
 
 
