@@ -20,7 +20,7 @@ char activaAlarma = 'A'; // Solo al presionar "A" podremos activar de nuevo la a
  * correcta(deja de sonar) o incorrecta(sigue sonando)
  */
  
-boolean flag = false;
+boolean flag = false; // Variable que nos permite activar o desactivar la alarma dependiendo de su estado
 char claveCorrecta[] = "1234"; // Aquí escribimos la contraseña de 4 dígitos
 const int PINWAKEUP = 2; // Pin de la interrupcion
 const byte FILAS = 4; //Numero de FILAS del teclado que se esta usando
