@@ -12,18 +12,16 @@ Tabla De Contenido
 - [Materiales](#materiales).
 - [Contenido Del Proyecto](#contenido-del-proyecto).
 - [Instrucciones Para Importar Las Bibliotecas utilizadas](#importar-librerias).
+- [Ejemplo Conexión Virtual](#conexion-virtual).
+- [Ejemplo Conexión Física](#conexion-fisica).
 - [Tecnologías Usadas](#tecnologias-usadas).
 - [Autor](#autor).
-- [Requisitos](#requisitos).
-- [Requisitos](#requisitos).
-- [Requisitos](#requisitos).
-- [Requisitos](#requisitos).
 
 Requisitos
 -----------
 
 - [x] Mientras la alarma no este sonando el arduino debera `consumir la mínima cantidad de energía`.
-- [x] Mientras la puerta este abierta, l`a alarma debera de sonar` alertando a la persona de dicho caso.
+- [x] Mientras la puerta este abierta, `la alarma debera de sonar` alertando a la persona de dicho caso.
 - [x] Cuando la puerta se cierre `la alarma dejara de sonar` y regresar al estado de bajo consumo energético. 
 
 
@@ -63,17 +61,32 @@ Instrucciones Para Importar Las Bibliotecas utilizadas
 
 > Paso 1:
 >> Seleccionamos el menú "Programa".
+
 > Paso 2:
 >> Seleccionamos el sub-menú "Incluir librería".
+
 > Paso 3:
 >> Seleccionamos la opción "Añadir librería .ZIP".
+
 > Paso 4:
 >> Buscamos y seleccionamos las librerías de este proyecto para que sean añadidas y puedan ser utilizadas por el programa.
+
 > Paso 5:
 >> Por ultimo añadimos las líneas siguientes dentro de la ventana del programa y así no tener problemas al momento de ejecutar nuestro proyecto:
 >> #include <LowPower.h>
 >> #include <Keypad.h>
     
+Ejemplo Conexión Virtual
+-------------------------
+A continuacion se muestra el circuito conectado de manera virtual:
+
+![ConexionVirtual](/Imagenes/Practica2-Interrupciones.png)
+
+Ejemplo Conexión Física
+------------------------
+A continuacion se muestra el circuito conectado de manera física:
+
+![ConexionFisica](/Imagenes/conexionFisica.jpg)
 
 Tecnologías Usadas
 -------------------
