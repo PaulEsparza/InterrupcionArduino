@@ -1,9 +1,12 @@
-*Version 1.2 - 27 - Sep - 2018*
+*Version 1.4 - 27 - Sep - 2018*
+
 
 # Practica 2. Interrupciones y Bajo Consumo Energetico En Arduino
 
+
 Esta practica consiste en `simular una alarma con arduino para el acceso a una puerta`, cuyo funcionamiento es que cuando la puerta este abierta, una alarma debe de sonar en caso contrario deberia de mantenerse en silencio.
 Como `funcionalidad adicional` se implemento un `teclado matricial` para poder mantener la puerta abierta ingresando una clave y poder activar de nuevo la alarma a traves de otra clave para asi poder reanudar el funcionamiento normal del programa.
+
 
 Tabla De Contenido
 --------------------
@@ -16,6 +19,7 @@ Tabla De Contenido
 - [Ejemplo Conexión Física](#conexion-fisica).
 - [Tecnologías Usadas](#tecnologias-usadas).
 - [Autor](#autor).
+
 
 Requisitos
 -----------
@@ -56,6 +60,7 @@ Contenido Del Proyecto
     
    * README.md : Este archivo.
 
+
 Instrucciones Para Importar Las Bibliotecas utilizadas
 --------------------------------------------------------
 
@@ -76,15 +81,21 @@ Instrucciones Para Importar Las Bibliotecas utilizadas
 >> #include <LowPower.h>
 >> #include <Keypad.h>
     
+
 Ejemplo Conexión Virtual
 -------------------------
+
 A continuacion se muestra el circuito conectado de manera virtual:
+
 
 ![ConexionVirtual](/Imagenes/Practica2-Interrupciones.png)
 
+
 Ejemplo Conexión Física
 ------------------------
+
 A continuacion se muestra el circuito conectado de manera física:
+
 
 ![ConexionFisica](/Imagenes/conexionFisica.jpg)
 
@@ -93,10 +104,11 @@ Tecnologías Usadas
 
 * La aplicación está estructurada utilizando :
 
-   * Sistema Operativo `Ubuntu 16.04 LTS`.
+   * <kbd>Sistema Operativo</kbd> `Ubuntu 16.04 LTS`.
     
    * `IDE Arduino`.
     
+
 Autor
 ------
 
